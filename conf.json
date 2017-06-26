@@ -1,0 +1,4 @@
+{
+    "dsn": "test_admin:test_admin@tcp(192.168.1.234:3306)/imhaigui",
+    "query": "select * from imhg_user"
+}
